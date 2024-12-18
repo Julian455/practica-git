@@ -12,4 +12,8 @@
 ## Fast Forward
 ## otro texto Fast
 
+
+## Rama Nueva texto misma linea ------- --------
+
 ## Agrego cosas para crear un conflicos entre ramas
+
